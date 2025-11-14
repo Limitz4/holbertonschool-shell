@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# This script displays time from 0:01 to 12:59 with proper formatting
-hour=0
+# This script displays time from 1:01 to 12:59 with proper formatting
+hour=1
 while [ $hour -le 12 ]
 do
     minute=1
